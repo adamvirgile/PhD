@@ -1,0 +1,17 @@
+"finding","value"
+"N_sequences",10
+"N_paired_observations",314
+"N_athletes",22
+"sRPE_Game1_mean",6.84076433121019
+"sRPE_Game2_mean",6.93630573248408
+"sRPE_diff_G2_minus_G1",0.0955414012738851
+"GamePosition_effect_TRIMPmin (β)",0.823813092669227
+"GamePosition_effect_TRIMPmin (p)",1.12402951462546e-09
+"Interaction_TRIMPmin (β)",-0.241906689943797
+"Interaction_TRIMPmin (p)",0.070258963757935
+"GamePosition_effect_HRavg (β)",0.965828360720851
+"GamePosition_effect_HRavg (p)",1.01973578603267e-11
+"Interaction_HRavg (β)",-0.216198753953374
+"Interaction_HRavg (p)",0.116270304144548
+"sRPE_TRIMP_ratio_G1",0.029894393937253
+"sRPE_TRIMP_ratio_G2",0.037726345771276

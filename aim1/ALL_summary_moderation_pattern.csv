@@ -1,0 +1,5 @@
+"HR_metric","estimate","direction","ci_excludes_zero","p_below_05","term_type"
+"TRIMP_min",-0.122123301010801,"negative","no","no","interaction"
+"HR_avg_pct_max",-0.224010693016817,"negative","yes","yes","interaction"
+"HR80_pct_rd",0.00258308699050441,"positive","no","no","interaction"
+"HR_peak",-0.459237640815201,"negative","yes","yes","interaction"

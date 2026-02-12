@@ -1,0 +1,21 @@
+"finding","value"
+"N_practices",1353
+"N_games",180
+"N_athletes_practices",24
+"N_athletes_games",19
+"Practice: Wellbeing→sRPE (unadj) β",0.0463580743287281
+"Practice: Wellbeing→sRPE (unadj) p",0.250502192906928
+"Practice: Wellbeing→sRPE (adj) β",0.0278545465087049
+"Practice: Wellbeing→sRPE (adj) p",0.437026499178662
+"Practice: Attenuation %",39.9143581521819
+"Practice: Wellbeing→Duration p",0.316426071867611
+"Game: Wellbeing→sRPE (unadj) β",-0.0220683018671749
+"Game: Wellbeing→sRPE (unadj) p",0.80575595237349
+"Game: Wellbeing→sRPE (adj) β",-0.0947320950136508
+"Game: Wellbeing→sRPE (adj) p",0.219209128159229
+"Game: Attenuation %",-329.267714316335
+"Game: Wellbeing→TOI p",0.128137673751357
+"Self_Performance OR",0.891830381301878
+"Self_Performance p",0.385501529558663
+"Coach_Performance OR",0.929550108209335
+"Coach_Performance p",0.604985590816857

@@ -1,0 +1,6 @@
+"HR_metric","estimate","ci_lower","ci_upper","direction","ci_excludes_zero","p_below_05"
+"TRIMP_min",0.598527903541228,0.533497866411904,0.663557940670551,"positive","yes","yes"
+"HR_avg_pct_max",0.664523278250279,0.594327346773847,0.734719209726711,"positive","yes","yes"
+"HR80_pct_rd",0.584725983599312,0.521561179215484,0.647890787983141,"positive","yes","yes"
+"HR_peak",0.556557957140383,0.474847660883134,0.638268253397632,"positive","yes","yes"
+"OVERALL_PATTERN",NA,NA,NA,"consistent_positive","all_yes",NA

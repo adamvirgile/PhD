@@ -1,0 +1,5 @@
+"HR_metric","method","outcome","beta","SE","p","R2"
+"HR80_mins","Duration","sRPE_TL_duration",58.93,15.906,"< .001",0.064
+"HR80_mins","TOI","sRPE_TL_toi",17.997,2.572,"< .001",0.201
+"TRIMP","Duration","sRPE_TL_duration",49.742,16.265,"0.003",0.046
+"TRIMP","TOI","sRPE_TL_toi",13.824,2.858,"< .001",0.12

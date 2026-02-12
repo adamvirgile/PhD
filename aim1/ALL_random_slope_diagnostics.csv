@@ -1,0 +1,7 @@
+"model","fit_ok","is_singular","converged","rs_type","fallback_used","warnings","n_obs","n_athletes"
+"TRIMP_min",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19
+"HR_avg_pct_max",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19
+"HR80_pct_rd",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19
+"HR_peak",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19
+"TRIMP_load",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19
+"HR80_mins_load",TRUE,FALSE,TRUE,"RS_correlated","none","",1502,19

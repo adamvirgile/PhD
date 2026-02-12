@@ -1,0 +1,3 @@
+"context","n","n_athletes","sRPE_mean","sRPE_sd","TRIMP_min_mean","TRIMP_min_sd","HR_avg_pct_max_mean","HR_avg_pct_max_sd","HR80_pct_rd_mean","HR80_pct_rd_sd","HR_peak_mean","HR_peak_sd","TRIMP_mean","TRIMP_sd","HR80_mins_mean","HR80_mins_sd","duration_mins_mean","duration_mins_sd","duration_exposure_mean","duration_exposure_sd","sRPE_TL_exposure_mean","sRPE_TL_exposure_sd"
+"game",158,8,7.16,1.11,1.28,0.2,71.32,4.15,24.87,7.39,190.2,9.74,219.98,39.07,38.19,11.31,153.86,8.35,17.7,3.46,130.75,35.86
+"practice",442,8,5.58,1.4,1.25,0.29,68.31,4.94,23.82,10.13,183.63,9.46,101.28,32.19,18.34,8.59,76.85,14.87,76.85,14.87,438.11,161.86

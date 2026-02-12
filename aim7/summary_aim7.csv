@@ -1,0 +1,19 @@
+"finding","value"
+"N_practices",1304
+"N_games",170
+"N_athletes_practices",23
+"N_athletes_games",18
+"Practice: Intensity β on sRPE",0.740749080796497
+"Practice: Duration β on sRPE",0.676795641292976
+"Practice: Duration/Intensity ratio",0.913663828735698
+"Game: Intensity β on sRPE",0.158193694992043
+"Game: TOI β on sRPE",0.508332392163212
+"Game: TOI/Intensity ratio",3.21335431344961
+"Practice: sRPE adds to duration (TRIMP ΔR²)",0.161629415942059
+"Practice: sRPE adds to duration (HR80 ΔR²)",0.228812130947056
+"Game: sRPE adds to TOI (TRIMP ΔR²)",0.0625785257335348
+"Game: sRPE adds to TOI (HR80 ΔR²)",0.0530452791816457
+"Practice: sRPE-TL improvement over Duration (TRIMP)",0.135917886248251
+"Practice: sRPE-TL improvement over Duration (HR80)",0.199818675285614
+"Game: sRPE-TL improvement over TOI (TRIMP)",0.0562465407486632
+"Game: sRPE-TL improvement over TOI (HR80)",0.0509980586725762
